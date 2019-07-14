@@ -5,5 +5,4 @@
 3、使用SQLite存储数据，程序断电后再次打开可显示关闭前保存的地点主。
 5、 Web API使用openweathermap，API KEY可以免费注册获取 https://openweathermap.org/api
 
-运行效果：
 
